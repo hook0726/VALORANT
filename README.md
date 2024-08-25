@@ -1,1 +1,6 @@
 # VALORANT
+git checkout main
+git checkcout ブランチ名 (新規作成なら-bオプション)
+git add ファイル名
+git commit -m "コミット名"
+git push origin ブランチ名
