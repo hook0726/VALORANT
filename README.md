@@ -1,4 +1,6 @@
 # VALORANT
+<git の使い方>
+
 git checkout main
 
 git checkcout ブランチ名 (新規作成なら-bオプション)
